@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1699204213,,"wq"
+|2,0,1700713968,,"wq"
+:WQ
+|2,0,1700713866,,"WQ"
 :q!
 |2,0,1655878993,,"q!"
 
@@ -27,28 +29,44 @@
 # Registers:
 
 # File marks:
-'0  1  5  ~/mydoc/index.html
-|4,48,1,5,1699204213,"~/mydoc/index.html"
-'1  59  28  /opt/Idle_Time.py
-|4,49,59,28,1655878993,"/opt/Idle_Time.py"
-'2  59  28  /opt/Idle_Time.py
-|4,50,59,28,1655878979,"/opt/Idle_Time.py"
-'3  1  0  /opt/Idle_Time.py
-|4,51,1,0,1655878958,"/opt/Idle_Time.py"
-'4  1  0  /opt/Idle_Time.py
-|4,52,1,0,1655878958,"/opt/Idle_Time.py"
+'0  1  18  ~/newdir/index.html
+|4,48,1,18,1700713968,"~/newdir/index.html"
+'1  1  1  ~/newdir/index.html
+|4,49,1,1,1700713871,"~/newdir/index.html"
+'2  1  5  ~/mydoc/index.html
+|4,50,1,5,1699204213,"~/mydoc/index.html"
+'3  59  28  /opt/Idle_Time.py
+|4,51,59,28,1655878993,"/opt/Idle_Time.py"
+'4  59  28  /opt/Idle_Time.py
+|4,52,59,28,1655878979,"/opt/Idle_Time.py"
 '5  1  0  /opt/Idle_Time.py
 |4,53,1,0,1655878958,"/opt/Idle_Time.py"
 '6  1  0  /opt/Idle_Time.py
 |4,54,1,0,1655878958,"/opt/Idle_Time.py"
-'7  11  18  /opt/eclipse/eclipse.desktop
-|4,55,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
-'8  7  11  /opt/check_idletime.desktop
-|4,56,7,11,1639478699,"/opt/check_idletime.desktop"
-'9  7  11  /opt/check_idletime.desktop
-|4,57,7,11,1639124538,"/opt/check_idletime.desktop"
+'7  1  0  /opt/Idle_Time.py
+|4,55,1,0,1655878958,"/opt/Idle_Time.py"
+'8  1  0  /opt/Idle_Time.py
+|4,56,1,0,1655878958,"/opt/Idle_Time.py"
+'9  11  18  /opt/eclipse/eclipse.desktop
+|4,57,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
 
 # Jumplist (newest first):
+-'  1  18  ~/newdir/index.html
+|4,39,1,18,1700713968,"~/newdir/index.html"
+-'  1  1  ~/newdir/index.html
+|4,39,1,1,1700713871,"~/newdir/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
 -'  1  5  ~/mydoc/index.html
 |4,39,1,5,1699204213,"~/mydoc/index.html"
 -'  1  5  ~/mydoc/index.html
@@ -62,6 +80,34 @@
 -'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878979,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878979,"/opt/Idle_Time.py"
@@ -69,6 +115,74 @@
 |4,39,59,28,1655878979,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  59  28  /opt/Idle_Time.py
+|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+-'  51  12  /opt/Idle_Time.py
+|4,39,51,12,1655878963,"/opt/Idle_Time.py"
 -'  51  12  /opt/Idle_Time.py
 |4,39,51,12,1655878963,"/opt/Idle_Time.py"
 -'  51  12  /opt/Idle_Time.py
@@ -109,146 +223,44 @@
 |4,39,1,0,1655878958,"/opt/Idle_Time.py"
 -'  1  0  /opt/Idle_Time.py
 |4,39,1,0,1655878958,"/opt/Idle_Time.py"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  11  18  /opt/eclipse/eclipse.desktop
-|4,39,11,18,1643002830,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  1  0  /opt/eclipse/eclipse.desktop
-|4,39,1,0,1643002816,"/opt/eclipse/eclipse.desktop"
--'  7  11  /opt/check_idletime.desktop
-|4,39,7,11,1639478699,"/opt/check_idletime.desktop"
--'  7  11  /opt/check_idletime.desktop
-|4,39,7,11,1639478699,"/opt/check_idletime.desktop"
--'  7  11  /opt/check_idletime.desktop
-|4,39,7,11,1639478699,"/opt/check_idletime.desktop"
--'  7  11  /opt/check_idletime.desktop
-|4,39,7,11,1639478699,"/opt/check_idletime.desktop"
--'  7  11  /opt/check_idletime.desktop
-|4,39,7,11,1639478699,"/opt/check_idletime.desktop"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
+-'  1  0  /opt/Idle_Time.py
+|4,39,1,0,1655878958,"/opt/Idle_Time.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/newdir/index.html
+	*	1700713965	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	1
+	+	1	18
 
 > ~/mydoc/index.html
 	*	1699204208	0

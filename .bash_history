@@ -513,3 +513,39 @@ sudo su -
 git status
 cd..
 sudo su
+git status
+git config --global user.name pb1205
+git config --global user.email pb@live.com
+git config list
+git config --list
+git status
+git add .
+git status
+git commit -m"added files"
+git status
+git restore mydoc
+git status
+git add mydoc
+gir status
+git status
+git add mydoc
+git commit -m"add file"
+ls
+cd newdir
+ls
+vim index.html
+ls
+vim index.html
+git status
+git commit -a
+git status
+git commit -a -m"modified"
+ls
+vim index.html
+git status
+git commit -a -m" modified"
+git log
+git log --oneline
+git ls files
+git ls-files
+cat index.html

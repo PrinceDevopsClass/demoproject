@@ -29,34 +29,44 @@
 # Registers:
 
 # File marks:
-'0  2  5  ~/newdir/index.html
-|4,48,2,5,1700714267,"~/newdir/index.html"
-'1  1  18  ~/newdir/index.html
-|4,49,1,18,1700713968,"~/newdir/index.html"
+'0  1  0  ~/.gitignore
+|4,48,1,0,1700812205,"~/.gitignore"
+'1  2  5  ~/newdir/index.html
+|4,49,2,5,1700714267,"~/newdir/index.html"
 '2  1  18  ~/newdir/index.html
 |4,50,1,18,1700713968,"~/newdir/index.html"
-'3  1  1  ~/newdir/index.html
-|4,51,1,1,1700713871,"~/newdir/index.html"
+'3  1  18  ~/newdir/index.html
+|4,51,1,18,1700713968,"~/newdir/index.html"
 '4  1  1  ~/newdir/index.html
 |4,52,1,1,1700713871,"~/newdir/index.html"
-'5  1  5  ~/mydoc/index.html
-|4,53,1,5,1699204213,"~/mydoc/index.html"
-'6  59  28  /opt/Idle_Time.py
-|4,54,59,28,1655878993,"/opt/Idle_Time.py"
+'5  1  1  ~/newdir/index.html
+|4,53,1,1,1700713871,"~/newdir/index.html"
+'6  1  5  ~/mydoc/index.html
+|4,54,1,5,1699204213,"~/mydoc/index.html"
 '7  59  28  /opt/Idle_Time.py
-|4,55,59,28,1655878979,"/opt/Idle_Time.py"
-'8  1  0  /opt/Idle_Time.py
-|4,56,1,0,1655878958,"/opt/Idle_Time.py"
+|4,55,59,28,1655878993,"/opt/Idle_Time.py"
+'8  59  28  /opt/Idle_Time.py
+|4,56,59,28,1655878979,"/opt/Idle_Time.py"
 '9  1  0  /opt/Idle_Time.py
 |4,57,1,0,1655878958,"/opt/Idle_Time.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitignore
+|4,39,1,0,1700812205,"~/.gitignore"
+-'  2  5  ~/newdir/index.html
+|4,39,2,5,1700714267,"~/newdir/index.html"
 -'  2  5  ~/newdir/index.html
 |4,39,2,5,1700714267,"~/newdir/index.html"
 -'  1  18  ~/newdir/index.html
 |4,39,1,18,1700714241,"~/newdir/index.html"
 -'  1  18  ~/newdir/index.html
+|4,39,1,18,1700714241,"~/newdir/index.html"
+-'  1  18  ~/newdir/index.html
 |4,39,1,18,1700713968,"~/newdir/index.html"
+-'  1  18  ~/newdir/index.html
+|4,39,1,18,1700713968,"~/newdir/index.html"
+-'  1  1  ~/newdir/index.html
+|4,39,1,1,1700713871,"~/newdir/index.html"
 -'  1  1  ~/newdir/index.html
 |4,39,1,1,1700713871,"~/newdir/index.html"
 -'  1  5  ~/mydoc/index.html
@@ -91,6 +101,38 @@
 |4,39,1,5,1699204213,"~/mydoc/index.html"
 -'  1  5  ~/mydoc/index.html
 |4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
+-'  1  5  ~/mydoc/index.html
+|4,39,1,5,1699204213,"~/mydoc/index.html"
 -'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
@@ -156,103 +198,66 @@
 -'  59  28  /opt/Idle_Time.py
 |4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 -'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  59  28  /opt/Idle_Time.py
-|4,39,59,28,1655878979,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
--'  51  12  /opt/Idle_Time.py
-|4,39,51,12,1655878963,"/opt/Idle_Time.py"
+|4,39,59,28,1655878993,"/opt/Idle_Time.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1700806718	0
+	"	1	0
+	y	1	0
 
 > ~/newdir/index.html
 	*	1700714263	0

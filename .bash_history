@@ -1,110 +1,3 @@
-clear
-apt-get update
-asudo apt install -y gcc vim curl wget g++ libcairo2-dev libjpeg-turbo8-dev libpng-dev libtool-bin libossp-uuid-dev libavcodec-dev libavutil-dev libswscale-dev build-essential libpango1.0-dev libssh2-1-dev libvncserver-dev libtelnet-dev \
-sudo apt install -y gcc vim curl wget g++ libcairo2-dev libjpeg-turbo8-dev libpng-dev libtool-bin libossp-uuid-dev libavcodec-dev libavutil-dev libswscale-dev build-essential libpango1.0-dev libssh2-1-dev libvncserver-dev libtelnet-dev libssl-dev libvorbis-dev libwebp-dev
-sudo apt install openjdk-11-jdk
-sudo useradd -m -U -d /opt/tomcat -s /bin/false tomcat
-sudo useradd -m -U -d /opt/91532 -s /bin/false 91532
-cd /opt/
-ls
-rm tomcat/
-rm -rf tomcat/
-wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.53/bin/apache-tomcat-9.0.53.tar.gz -P ~
-ls
-wget apache-tomcat-9.0.56.tar.gz
-wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.56/bin/apache-tomcat-9.0.56.tar.gz
-sudo mkdir /opt/91532
-sudo tar -xzf apache-tomcat-9.0.53.tar.gz -C /opt/91532/
-ls
-sudo tar -xzf apache-tomcat-9.0.56.tar.gz -C /opt/91532/
-ls
-cd 91
-cd 91532/
-ls
-mv apache-tomcat-9.0.56/ ../
-ls
-cd .
-cd ..
-ls
-rm -r 91532/
-cd apache-tomcat-9.0.56/
-ls
-cd ..
-mv apache-tomcat-9.0.56 91532
-ls
-rm -rf apache-tomcat-9.0.56.tar.gz 
-cd 91532/
-ls
-sudo chmod +x /opt/tomcat/tomcatapp/bin/*.sh
-sudo chmod +x /opt/91532/bin/*.sh
-nano /etc/systemd/system/91532.service
-sudo systemctl daemon-reload
-sudo systemctl enable --now 91532
-systemctl status tomcat
-systemctl status 91532
-systemctl start 91532
-systemctl status 91532
-systemctl status 91532.service 
-systemctl enable 91532
-systemctl enable 91532.service
-systemctl status 91532
-cd
-cat /etc/apt/sources.list
-sudo add-apt-repository ppa:remmina-ppa-team/remmina-next-daily
-sudo apt update
-sudo apt install freerdp2-dev freerdp2-x11 -y
-nano /etc/apt/sources.list
-nano /etc/apt/sources.list.d/remmina-ppa-team-ubuntu-remmina-next-daily-focal.list 
-apt-get ipdate
-apt update
-apt update --upgradable
-apt --upgradable
-apt list --upgradable
-clear
-nano /etc/ssh/ssh_config
-cd /etc/ssh
-ls
-nano sshd_config
-systemctl restart ssh
-cd /opt/91532/conf/
-mkdir ssl
-cd ssk
-cd ssl/
-wget https://simplilearnconfig.s3.amazonaws.com/SSL/SL_SSL_Latest.zip
-unzip si
-ls
-apt install unzip
-y
-ls
-unzip SL_SSL_Latest.zip 
-ls
-nano star_simplilearnlabs_com.key
-cd ..
-ls
-echo > server.xml 
-nano server.xml 
-echo > tomcat-users.xml 
-nano tomcat-users.xml 
-cd ..
-nano 91532.sh
-chmod +x 91532.sh 
-crontab -e
-nano /opt/tampering.sh
-chmod +x /opt/tampering.sh 
-crontab -e
-systemctl restart 91532
-cat conf/server.xml 
-cd
-clear
-cd /opt/
-ls
-wget https://downloads.apache.org/guacamole/1.3.0/source/guacamole-server-1.3.0.tar.gz -P ~
-tar xzf ~/guacamole-server-1.3.0.tar.gz
-cd ~/guacamole-server-1.3.0
-./configure --with-init-dir=/etc/init.d
-ls
-cd guacamole-server-1.3.0/
-./configure --with-init-dir=/etc/init.d
 make
 apt install freerdp
 apt install freerdp2
@@ -549,3 +442,59 @@ git log --oneline
 git ls files
 git ls-files
 cat index.html
+git branch
+git checkout master
+git status
+git add .
+git rm --chched mydoc
+git status
+git commit -m" nothing"
+git status
+git branch
+git checkout master
+git status
+git rm mydoc
+git commit -a
+git status
+git checkout feature1
+git ls-files
+git rm .bash_history
+gir ls-files
+git ls-files
+touch login
+git status
+git add .
+git commit -m"new file added"
+git log --oneline
+git branch
+git checkout master
+git merge feature1 master
+ls
+git rm wget-log
+git rm snap
+git rm -r snap
+git rm -r output
+git commit -m"remove"
+ls
+git branch -m mydir1 newdir1
+git branch -m newdir newdir1
+git branch
+git branch feature1 login
+git branch
+git branch -m feature1 login
+git branch
+git branch -d login
+git branch'
+
+git branch
+git status
+git remote add origin https://github.com/PrinceDevopsClass/demoproject.git
+git remote -v
+git push origin master
+git branch
+git log --oneline
+git cherry-pick 62f5659
+ls
+git status
+ vim.gitignore
+vim .gitignore
